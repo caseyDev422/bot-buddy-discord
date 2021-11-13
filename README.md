@@ -1,2 +1,3 @@
 # bot-buddy-discord
-Bot for personal Discord
+
+Bot for personal Discord Server
